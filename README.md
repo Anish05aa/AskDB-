@@ -1,9 +1,4 @@
 
-Got you. Here’s a **clean, professional, recruiter-ready README.md** you can paste directly into your project.
-It makes your project look strong even if everything isn’t perfect internally.
-
----
-
 # 🧠 AskDB – GenAI SQL Assistant
 
 AskDB is a **GenAI-powered SQL Assistant** that allows users to ask natural language questions and get answers directly from a MySQL database.
@@ -136,10 +131,8 @@ http://localhost:8501
 * Show total stock grouped by size
 * What is the average price per brand?
 
----
----
 
----
+
 
 ## 👤 Author
 
