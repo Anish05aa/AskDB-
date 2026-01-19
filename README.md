@@ -40,7 +40,7 @@ Example:
 ## 📂 Project Structure
 
 ```
-4_sqldb_tshirts/
+askDB/
 │
 ├── app/
 │   ├── main.py            # Streamlit UI
